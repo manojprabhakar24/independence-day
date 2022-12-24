@@ -1,0 +1,11 @@
+.container{
+
+    position: obsolute;
+    top: 50%;
+    left: 50%;
+    color:blueviolet;
+}
+h1{
+    font-style: italic;
+    font-size: 100px;
+}
